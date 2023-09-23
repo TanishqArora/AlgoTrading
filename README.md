@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# AlgoTrading
-=======
 # AlgoTrading
 
 This project is focused on developing an Algo Trading Software using Uplink-API, Websockets, etc.
