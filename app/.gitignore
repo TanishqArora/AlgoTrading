@@ -1,0 +1,8 @@
+notebooks/config.cfg
+.ipynb_checkpoints
+csv/*.csv
+csv/*.json
+notebooks/__pycache__
+main_folder/__pycache__
+main_folder/*.cfg
+database/*.db
